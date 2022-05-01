@@ -1,0 +1,50 @@
+{
+  "console.js": {
+    "src": "/assets/console.6bc6725b.js",
+    "integrity": "sha384-JfH7wHnU28KkMxucmyVlFYBj1RRZOauBrsMHMRulO/m0uh0G6eD5v6St91FU+06s"
+  },
+  "editor.js": {
+    "src": "/assets/editor.e6d0b9aa.js",
+    "integrity": "sha384-UzkSeTLaKmrE6VrA4uV1hgCwgpk0glNu/pheI1w9SJnNMR/R6su8mlXvMO28DDZc"
+  },
+  "feature.eula.js": {
+    "src": "/assets/feature.eula.40deab36.js",
+    "integrity": "sha384-XttnkydBv2I4XQt0moeRY4j3b+l7AFYhcPnhuyoJFuKlIXl1AQqdPbYAnaHjnBYO"
+  },
+  "feature.gsl_token.js": {
+    "src": "/assets/feature.gsl_token.e3a07caa.js",
+    "integrity": "sha384-kr8JP4Kw0hg7Vk/p06g/DLO8ORvaqHsyfvWFHEHB1HYHVKqNYBWtzadiamX8HFBD"
+  },
+  "feature.java_version.js": {
+    "src": "/assets/feature.java_version.fb893778.js",
+    "integrity": "sha384-c2yFUKrEvKmVn7oxAQo9CPXmnwhlisyutf9iMwLqGPQS51ovVa4zdjhLYMoaUb4E"
+  },
+  "feature.pid_limit.js": {
+    "src": "/assets/feature.pid_limit.94f1e26b.js",
+    "integrity": "sha384-6XFAOxmn/oDVocUD9YD0Xi+gAxL8hJvkfrBNfBXxk4EY+YodUP7skwX/U8OKYsFY"
+  },
+  "feature.steam_disk_space.js": {
+    "src": "/assets/feature.steam_disk_space.740ba7f8.js",
+    "integrity": "sha384-aktzDWqkiOa5lwvv9Zz42JfJNql3/4yNWbVP1nH44r8frMem5xaPwNrYm0V/n4x5"
+  },
+  "graphs.js": {
+    "src": "/assets/graphs.2db8a712.js",
+    "integrity": "sha384-5J35rbEePqiWEZ+eAJqtdUeSnr45986EGM41AZafr7EZ/SkOVRx9Pj/nksTtOyjp"
+  },
+  "main.js": {
+    "src": "/assets/bundle.f57341e4.js",
+    "integrity": "sha384-XkLDX/MFrPOron3N6BeY2MQBxK/Udbmm5ZKHYIJEq6tpzNZvzqsqe967oSfXtzPR"
+  },
+  "vendors~console.js": {
+    "src": "/assets/vendors~console.209cd650.js",
+    "integrity": "sha384-fY9JHn4W6gtaWl5YVErXdgdR07PfAvMeIzupJ7lLX9FXDKeIgyPZQ0sy5xNlOHFL"
+  },
+  "vendors~editor.js": {
+    "src": "/assets/vendors~editor.3b78a828.js",
+    "integrity": "sha384-G4GfekBMRmvDUTcuTPnbo2MzzR8cIt65yR60m8utgidk61aA1tDIinURqby1sXRw"
+  },
+  "vendors~graphs.js": {
+    "src": "/assets/vendors~graphs.d78da994.js",
+    "integrity": "sha384-3uBqlj9BWXqWlTfq/0oblISbmeFq973Ul5dWDMI+1qAcaGvnwuQexIDYYgoRCpJ9"
+  }
+}
