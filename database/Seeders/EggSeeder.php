@@ -73,10 +73,16 @@ class EggSeeder extends Seeder
     protected function getEggsToImport(): Collection
     {
         return collect([
+            'League Sandbox',
             'Minecraft',
-            'Source Engine',
-            'Voice Servers',
             'Rust',
+            'Source Engine',
+            'Steam Servers',
+            'Teamspeak 3',
+            'Teeworlds',
+            'Terraria',
+            'Twitch',
+            'Voice Servers',
         ]);
     }
 
